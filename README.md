@@ -5,7 +5,7 @@ but in our opinion it has two major design flaws:
 
 We present two simple adapters to solve these issues.
 
-![Supercon 8 badge without and with adapters](img/s8-sao-badge.jpg)
+![Supercon 8 badge without and with adapters](img/s8-badge.jpg)
 
 **SAO Up** rotates the SAO slot by 90 degrees, orienting SAOs closer to
 their upright position. The same PCB works for the left and right side
