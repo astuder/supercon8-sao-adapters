@@ -15,7 +15,7 @@ of the badge, depending on which side the SAO headers are soldered.
 
 **SAO Bridge** adds an SAO slot in the center of the badge, and also
 rotates the left and right SAO slots into upright orientation. The center
-slot is connected the power and I2C of the bus on the left side of the
+slot is connected to power and I2C of the bus on the left side of the
 badge (slot 2).
 
 ![SAO Bridge adapter](img/s8-sao-bridge.jpg)
