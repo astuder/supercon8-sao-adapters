@@ -6,6 +6,7 @@ but in our opinion it has two major design flaws:
 We present two simple adapters to solve these issues.
 
 ![Supercon 8 badge without and with adapters](img/s8-badge.jpg)
+(see note below for links to the SAOs shown)
 
 **SAO Up** rotates the SAO slot by 90 degrees, orienting SAOs closer to
 their upright position. The same PCB works for the left and right side
@@ -27,3 +28,13 @@ turnaround time at JLCPCB.
 
 You are welcome to duplicate, adapt or steal this project. The license is
 CERN-OHL-P, which is open and permissive.
+
+**SAOs used for demo**
+
+Here's a list of the SAOs shown in the photos above:
+* [duckGLOW](https://hackaday.io/project/198918-duckglow-sao)) by myself
+* [Hack-Man](https://hackaday.io/project/198301-hack-man-sao) by InstantArcade
+* [Featuring You!](https://hackaday.io/project/198924-featuring-you) by Nanik Adnani
+* [Yo Dawg](https://hackaday.io/project/198060-yo-dawg-sao-introducing-saoao) by davedarko
+* [Infinity Mirror](https://hackaday.io/project/198943-sao-infinity-mirror) by Scorch Works
+* [Wolverine](https://mastodon.social/@simenzhor/113266947534371773) by Simen E. Sørensen
