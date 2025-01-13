@@ -32,7 +32,7 @@ CERN-OHL-P, which is open and permissive.
 **SAOs used for demo**
 
 Here's a list of the SAOs shown in the photos above:
-* [duckGLOW](https://hackaday.io/project/198918-duckglow-sao)) by myself
+* [duckGLOW](https://hackaday.io/project/198918-duckglow-sao) by myself
 * [Hack-Man](https://hackaday.io/project/198301-hack-man-sao) by InstantArcade
 * [Featuring You!](https://hackaday.io/project/198924-featuring-you) by Nanik Adnani
 * [Yo Dawg](https://hackaday.io/project/198060-yo-dawg-sao-introducing-saoao) by davedarko
